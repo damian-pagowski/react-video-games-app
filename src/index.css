@@ -17,6 +17,10 @@ li {
   height: 5%;
 }
 
+h2 {
+  font-size: 1.6em;
+}
+
 input {
   margin: 10px;
   display: inline-block;
@@ -79,3 +83,5 @@ button:disabled {
 .error {
   color: red;
 }
+
+
